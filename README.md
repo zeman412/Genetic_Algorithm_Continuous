@@ -1,5 +1,5 @@
 # Implementation of Genetic Algorithm for solving a continuous optimization problem.
-Min ??  =  (??^2  +  ?? - 11)^2  +  (?? +  ??^2  - 7)^2
+Min z  =  (x^2  +  y - 11)^2  +  (x +  y^2  - 7)^2
 
 Where both the decision variables x and y lie between -6 and +6
 
